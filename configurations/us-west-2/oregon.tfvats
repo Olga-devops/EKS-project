@@ -8,7 +8,7 @@ s3_tfstate_file = "infrastructure.tfstate"   #Will be used to set backend.tf
 vpc_id = "vpc-67dd1f1f"
 subnet1 = "subnet-250e515c"
 subnet2 = "subnet-d9a0d992"
-ssh_key_location    	=	"/ssh_keys/Bastion-host"
+ssh_key_location    	=	"/ssh_keys/Bastion-host.pub"
 
 
 cluster_name = "cluster"
