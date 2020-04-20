@@ -2,7 +2,7 @@ variable "vpc_id" {}
 variable "subnet1" {}
 variable "subnet2" {}
 variable "environment" {}
-
+variable "ssh_key_location" {}
 variable "cluster_name" {}
 
 variable "instance_type" {}
