@@ -1,4 +1,4 @@
-
+environment = "california"
 region = "us-west-1"
 s3_bucket = "eks-terraform-team2-california"              #Will be used to set backend.tf
 s3_folder_project = "application"            #Will be used to set backend.tf
