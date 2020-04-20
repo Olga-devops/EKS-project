@@ -11,7 +11,7 @@ subnet2 = "subnet-d9a0d992"
 
 
 
-cluster_name = "oregon-cluster"
+cluster_name = "cluster"
 instance_type = "m4.large"
 asg_max_size = "48" 
 asg_min_size = "3"
